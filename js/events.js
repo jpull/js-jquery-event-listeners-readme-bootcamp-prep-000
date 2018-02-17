@@ -1,7 +1,6 @@
 //define functions here
 function getIt() {
   $('p').on('click', function() {
-    $('img').addclass("tasty");
     alert("Hey!");
   })
 }
