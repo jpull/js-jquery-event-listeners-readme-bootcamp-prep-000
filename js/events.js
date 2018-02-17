@@ -22,4 +22,5 @@ alert ('${key} was pressed');
 $(document).ready(function(){
   getIt();
   frameIt();
+  pressIt();
 });
