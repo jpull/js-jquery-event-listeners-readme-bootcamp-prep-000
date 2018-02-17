@@ -2,7 +2,7 @@
 function getIt() {
   $('p').on('click', function() {
     frameIt();
-    alert("Hey!2");
+    alert("Hey!");
   })
 }
 function frameIt() {
