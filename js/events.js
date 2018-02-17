@@ -15,7 +15,7 @@ function pressIt() {
     if(key.which == 83){
     alert('s was pressed');
 }
-alert ('${key} was pressed');
+alert (key + ' was pressed');
   })
 }
 
